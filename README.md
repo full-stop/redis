@@ -206,7 +206,7 @@ ping -> pong 表示Redis服务启动中。
 
 Redis 字符串数据类型的相关命令用于管理 redis 字符串值，基本语法如下
 
-``` 
+```
 
 set key value # 设置指定key的值。
 get key       # 获取指定key的值。
@@ -222,3 +222,7 @@ msetnx key1 value key2 value key3 value ... #同时设置多个key的值，但�
 
 
 ```
+
+
+
+>http://www.runoob.com/redis/redis-strings.html
